@@ -1,0 +1,769 @@
+cfs entry for: _1o.fld
+doc 0
+  field 0
+    name titolo
+    type string
+    value Ode al pomodoro
+  field 1
+    name contenuto
+    type string
+    value La strada\
+si riempì di pomodori,\
+mezzogiorno,\
+estate,\
+la luce\
+si divide\
+in due\
+metà\
+di un pomodoro,\
+scorre\
+per le strade\
+il succo.\
+In dicembre\
+senza pausa\
+il pomodoro,\
+invade\
+le cucine,\
+entra per i pranzi,\
+si siede\
+riposato\
+nelle credenze,\
+tra i bicchieri,\
+le matequilleras\
+la saliere azzurre.\
+Emana\
+una luce propria,\
+maestà benigna.\
+Dobbiamo, purtroppo,\
+assassinarlo:\
+affonda\
+il coltello\
+nella sua polpa vivente,\
+è una rossa\
+viscera,\
+un sole\
+fresco,\
+profondo,\
+inesauribile,\
+riempie le insalate\
+del Cile,\
+si sposa allegramente\
+con la chiara cipolla,\
+e per festeggiare\
+si lascia\
+cadere\
+l'olio,\
+figlio\
+essenziale dell'ulivo,\
+sui suoi emisferi socchiusi,\
+si aggiunge\
+il pepe\
+la sua fragranza,\
+il sale il suo magnetismo:\
+sono le nozze\
+del giorno\
+il prezzemolo\
+issa\
+la bandiera,\
+le patate\
+bollono vigorosamente,\
+l'arrosto\
+colpisce\
+con il suo aroma\
+la porta,\
+è ora!\
+andiamo!\
+e sopra\
+il tavolo, nel mezzo\
+dell'estate,\
+il pomodoro,\
+astro della terra,\
+stella\
+ricorrente\
+e feconda,\
+ci mostra\
+le sue circonvoluzioni,\
+i suoi canali,\
+l'insigne pienezza\
+e l'abbondanza\
+senza ossa,\
+senza corazza,\
+senza squame né spine,\
+ci offre\
+il dono\
+del suo colore focoso\
+e la totalità della sua freschezza.\
+
+END
+checksum 00000000002469100871
+cfs entry for: _1o.inf
+number of fields 2
+  name titolo
+  number 0
+  index options DOCS_AND_FREQS_AND_POSITIONS
+  term vectors false
+  payloads false
+  norms true
+  doc values NONE
+  doc values gen -1
+  attributes 0
+  data dimensional count 0
+  index dimensional count 0
+  dimensional num bytes 0
+  vector number of dimensions 0
+  vector encoding FLOAT32
+  vector similarity EUCLIDEAN
+  soft-deletes false
+  name contenuto
+  number 1
+  index options DOCS_AND_FREQS_AND_POSITIONS
+  term vectors false
+  payloads false
+  norms true
+  doc values NONE
+  doc values gen -1
+  attributes 0
+  data dimensional count 0
+  index dimensional count 0
+  dimensional num bytes 0
+  vector number of dimensions 0
+  vector encoding FLOAT32
+  vector similarity EUCLIDEAN
+  soft-deletes false
+checksum 00000000001012915120
+cfs entry for: _1o.len
+field titolo
+  type NUMERIC
+  minvalue 3
+  pattern 0
+0
+T
+field contenuto
+  type NUMERIC
+  minvalue 66
+  pattern 0
+0
+T
+END
+checksum 00000000003814395075
+cfs entry for: _1o.pst
+field contenuto
+  term abbondanza
+    doc 0
+      freq 1
+      pos 171
+  term affonda
+    doc 0
+      freq 1
+      pos 59
+  term aggiunge
+    doc 0
+      freq 1
+      pos 104
+  term allegramente
+    doc 0
+      freq 1
+      pos 82
+  term andiamo
+    doc 0
+      freq 1
+      pos 140
+  term aroma
+    doc 0
+      freq 1
+      pos 135
+  term arrosto
+    doc 0
+      freq 1
+      pos 130
+  term assassinarlo
+    doc 0
+      freq 1
+      pos 58
+  term astro
+    doc 0
+      freq 1
+      pos 151
+  term azzurre
+    doc 0
+      freq 1
+      pos 49
+  term bandiera
+    doc 0
+      freq 1
+      pos 124
+  term benigna
+    doc 0
+      freq 1
+      pos 55
+  term bicchieri
+    doc 0
+      freq 1
+      pos 44
+  term bollono
+    doc 0
+      freq 1
+      pos 127
+  term cadere
+    doc 0
+      freq 1
+      pos 92
+  term canali
+    doc 0
+      freq 1
+      pos 165
+  term chiara
+    doc 0
+      freq 1
+      pos 85
+  term ci
+    doc 0
+      freq 2
+      pos 158
+      pos 180
+  term cile
+    doc 0
+      freq 1
+      pos 79
+  term cipolla
+    doc 0
+      freq 1
+      pos 86
+  term circonvoluzioni
+    doc 0
+      freq 1
+      pos 162
+  term colore
+    doc 0
+      freq 1
+      pos 186
+  term colpisce
+    doc 0
+      freq 1
+      pos 131
+  term coltello
+    doc 0
+      freq 1
+      pos 61
+  term con
+    doc 0
+      freq 2
+      pos 83
+      pos 132
+  term corazza
+    doc 0
+      freq 1
+      pos 175
+  term credenze
+    doc 0
+      freq 1
+      pos 41
+  term cucine
+    doc 0
+      freq 1
+      pos 32
+  term del
+    doc 0
+      freq 3
+      pos 78
+      pos 118
+      pos 184
+  term dell
+    doc 0
+      freq 2
+      pos 97
+      pos 147
+  term della
+    doc 0
+      freq 2
+      pos 152
+      pos 191
+  term di
+    doc 0
+      freq 2
+      pos 4
+      pos 15
+  term dicembre
+    doc 0
+      freq 1
+      pos 25
+  term divide
+    doc 0
+      freq 1
+      pos 11
+  term dobbiamo
+    doc 0
+      freq 1
+      pos 56
+  term dono
+    doc 0
+      freq 1
+      pos 183
+  term due
+    doc 0
+      freq 1
+      pos 13
+  term e
+    doc 0
+      freq 5
+      pos 87
+      pos 141
+      pos 156
+      pos 169
+      pos 188
+  term emana
+    doc 0
+      freq 1
+      pos 50
+  term emisferi
+    doc 0
+      freq 1
+      pos 101
+  term entra
+    doc 0
+      freq 1
+      pos 33
+  term essenziale
+    doc 0
+      freq 1
+      pos 96
+  term estate
+    doc 0
+      freq 2
+      pos 7
+      pos 148
+  term feconda
+    doc 0
+      freq 1
+      pos 157
+  term festeggiare
+    doc 0
+      freq 1
+      pos 89
+  term figlio
+    doc 0
+      freq 1
+      pos 95
+  term focoso
+    doc 0
+      freq 1
+      pos 187
+  term fragranza
+    doc 0
+      freq 1
+      pos 109
+  term freschezza
+    doc 0
+      freq 1
+      pos 193
+  term fresco
+    doc 0
+      freq 1
+      pos 72
+  term giorno
+    doc 0
+      freq 1
+      pos 119
+  term i
+    doc 0
+      freq 3
+      pos 35
+      pos 43
+      pos 163
+  term il
+    doc 0
+      freq 11
+      pos 22
+      pos 28
+      pos 60
+      pos 105
+      pos 110
+      pos 112
+      pos 120
+      pos 133
+      pos 143
+      pos 149
+      pos 182
+  term in
+    doc 0
+      freq 2
+      pos 12
+      pos 24
+  term inesauribile
+    doc 0
+      freq 1
+      pos 74
+  term insalate
+    doc 0
+      freq 1
+      pos 77
+  term insigne
+    doc 0
+      freq 1
+      pos 167
+  term invade
+    doc 0
+      freq 1
+      pos 30
+  term issa
+    doc 0
+      freq 1
+      pos 122
+  term l
+    doc 0
+      freq 4
+      pos 93
+      pos 129
+      pos 166
+      pos 170
+  term la
+    doc 0
+      freq 8
+      pos 0
+      pos 8
+      pos 47
+      pos 84
+      pos 107
+      pos 123
+      pos 136
+      pos 189
+  term lascia
+    doc 0
+      freq 1
+      pos 91
+  term le
+    doc 0
+      freq 7
+      pos 20
+      pos 31
+      pos 45
+      pos 76
+      pos 116
+      pos 125
+      pos 160
+  term luce
+    doc 0
+      freq 2
+      pos 9
+      pos 52
+  term maestà
+    doc 0
+      freq 1
+      pos 54
+  term magnetismo
+    doc 0
+      freq 1
+      pos 114
+  term matequilleras
+    doc 0
+      freq 1
+      pos 46
+  term metà
+    doc 0
+      freq 1
+      pos 14
+  term mezzo
+    doc 0
+      freq 1
+      pos 146
+  term mezzogiorno
+    doc 0
+      freq 1
+      pos 6
+  term mostra
+    doc 0
+      freq 1
+      pos 159
+  term nel
+    doc 0
+      freq 1
+      pos 145
+  term nella
+    doc 0
+      freq 1
+      pos 62
+  term nelle
+    doc 0
+      freq 1
+      pos 40
+  term nozze
+    doc 0
+      freq 1
+      pos 117
+  term né
+    doc 0
+      freq 1
+      pos 178
+  term offre
+    doc 0
+      freq 1
+      pos 181
+  term olio
+    doc 0
+      freq 1
+      pos 94
+  term ora
+    doc 0
+      freq 1
+      pos 139
+  term ossa
+    doc 0
+      freq 1
+      pos 173
+  term patate
+    doc 0
+      freq 1
+      pos 126
+  term pausa
+    doc 0
+      freq 1
+      pos 27
+  term pepe
+    doc 0
+      freq 1
+      pos 106
+  term per
+    doc 0
+      freq 3
+      pos 19
+      pos 34
+      pos 88
+  term pienezza
+    doc 0
+      freq 1
+      pos 168
+  term polpa
+    doc 0
+      freq 1
+      pos 64
+  term pomodori
+    doc 0
+      freq 1
+      pos 5
+  term pomodoro
+    doc 0
+      freq 3
+      pos 17
+      pos 29
+      pos 150
+  term porta
+    doc 0
+      freq 1
+      pos 137
+  term pranzi
+    doc 0
+      freq 1
+      pos 36
+  term prezzemolo
+    doc 0
+      freq 1
+      pos 121
+  term profondo
+    doc 0
+      freq 1
+      pos 73
+  term propria
+    doc 0
+      freq 1
+      pos 53
+  term purtroppo
+    doc 0
+      freq 1
+      pos 57
+  term ricorrente
+    doc 0
+      freq 1
+      pos 155
+  term riempie
+    doc 0
+      freq 1
+      pos 75
+  term riempì
+    doc 0
+      freq 1
+      pos 3
+  term riposato
+    doc 0
+      freq 1
+      pos 39
+  term rossa
+    doc 0
+      freq 1
+      pos 68
+  term sale
+    doc 0
+      freq 1
+      pos 111
+  term saliere
+    doc 0
+      freq 1
+      pos 48
+  term scorre
+    doc 0
+      freq 1
+      pos 18
+  term senza
+    doc 0
+      freq 4
+      pos 26
+      pos 172
+      pos 174
+      pos 176
+  term si
+    doc 0
+      freq 6
+      pos 2
+      pos 10
+      pos 37
+      pos 80
+      pos 90
+      pos 103
+  term siede
+    doc 0
+      freq 1
+      pos 38
+  term socchiusi
+    doc 0
+      freq 1
+      pos 102
+  term sole
+    doc 0
+      freq 1
+      pos 71
+  term sono
+    doc 0
+      freq 1
+      pos 115
+  term sopra
+    doc 0
+      freq 1
+      pos 142
+  term spine
+    doc 0
+      freq 1
+      pos 179
+  term sposa
+    doc 0
+      freq 1
+      pos 81
+  term squame
+    doc 0
+      freq 1
+      pos 177
+  term stella
+    doc 0
+      freq 1
+      pos 154
+  term strada
+    doc 0
+      freq 1
+      pos 1
+  term strade
+    doc 0
+      freq 1
+      pos 21
+  term sua
+    doc 0
+      freq 3
+      pos 63
+      pos 108
+      pos 192
+  term succo
+    doc 0
+      freq 1
+      pos 23
+  term sue
+    doc 0
+      freq 1
+      pos 161
+  term sui
+    doc 0
+      freq 1
+      pos 99
+  term suo
+    doc 0
+      freq 3
+      pos 113
+      pos 134
+      pos 185
+  term suoi
+    doc 0
+      freq 2
+      pos 100
+      pos 164
+  term tavolo
+    doc 0
+      freq 1
+      pos 144
+  term terra
+    doc 0
+      freq 1
+      pos 153
+  term totalità
+    doc 0
+      freq 1
+      pos 190
+  term tra
+    doc 0
+      freq 1
+      pos 42
+  term ulivo
+    doc 0
+      freq 1
+      pos 98
+  term un
+    doc 0
+      freq 2
+      pos 16
+      pos 70
+  term una
+    doc 0
+      freq 2
+      pos 51
+      pos 67
+  term vigorosamente
+    doc 0
+      freq 1
+      pos 128
+  term viscera
+    doc 0
+      freq 1
+      pos 69
+  term vivente
+    doc 0
+      freq 1
+      pos 65
+  term è
+    doc 0
+      freq 2
+      pos 66
+      pos 138
+field titolo
+  term al
+    doc 0
+      freq 1
+      pos 1
+  term ode
+    doc 0
+      freq 1
+      pos 0
+  term pomodoro
+    doc 0
+      freq 1
+      pos 2
+END
+checksum 00000000003956371958
+table of contents, size: 4
+  filename: _1o.fld
+    start: 23
+    end: 1546
+  filename: _1o.inf
+    start: 1569
+    end: 2349
+  filename: _1o.len
+    start: 2372
+    end: 2524
+  filename: _1o.pst
+    start: 2547
+    end: 10241
+table of contents begins at offset: 0000000000000010241

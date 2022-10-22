@@ -1,0 +1,503 @@
+cfs entry for: _1k.fld
+doc 0
+  field 0
+    name titolo
+    type string
+    value Equilibri Magnetici
+  field 1
+    name contenuto
+    type string
+    value Come abbiamo spiegato nell'articolo su "record e protagonisti della fusione nucleare", una tecnologia di fusione si basa su speciali reattori chiamati tokamak, impianti di forma toroidale all'interno dei quali il plasma viene tenuto in sospensione (confinato) da potenti campi magnetici.\
+Questo materiale, che viene ottenuto dal surriscaldamento di isotopi dell'idrogeno, può raggiungere temperature dell'ordine di 100 milioni di gradi centigradi: i campi magnetici lo tengono in sospensione all'interno del tokamak senza farlo avvicinare alle pareti, che a quelle temperature verrebbero istantaneamente vaporizzate.\
+Questa del confinamento megnetico è un'operazione estremamente complessa, poiché il campo magnetico prodotto da ogni singolo elettromagnete del reattore deve variare migliaia di volte al secondo in funzione dei moti e delle condizioni del plasma.\
+
+END
+checksum 00000000001688439902
+cfs entry for: _1k.inf
+number of fields 2
+  name titolo
+  number 0
+  index options DOCS_AND_FREQS_AND_POSITIONS
+  term vectors false
+  payloads false
+  norms true
+  doc values NONE
+  doc values gen -1
+  attributes 0
+  data dimensional count 0
+  index dimensional count 0
+  dimensional num bytes 0
+  vector number of dimensions 0
+  vector encoding FLOAT32
+  vector similarity EUCLIDEAN
+  soft-deletes false
+  name contenuto
+  number 1
+  index options DOCS_AND_FREQS_AND_POSITIONS
+  term vectors false
+  payloads false
+  norms true
+  doc values NONE
+  doc values gen -1
+  attributes 0
+  data dimensional count 0
+  index dimensional count 0
+  dimensional num bytes 0
+  vector number of dimensions 0
+  vector encoding FLOAT32
+  vector similarity EUCLIDEAN
+  soft-deletes false
+checksum 00000000001012915120
+cfs entry for: _1k.len
+field titolo
+  type NUMERIC
+  minvalue 2
+  pattern 0
+0
+T
+field contenuto
+  type NUMERIC
+  minvalue 60
+  pattern 0
+0
+T
+END
+checksum 00000000002547352253
+cfs entry for: _1k.pst
+field contenuto
+  term 100
+    doc 0
+      freq 1
+      pos 59
+  term a
+    doc 0
+      freq 1
+      pos 81
+  term abbiamo
+    doc 0
+      freq 1
+      pos 1
+  term al
+    doc 0
+      freq 1
+      pos 112
+  term all
+    doc 0
+      freq 2
+      pos 27
+      pos 71
+  term alle
+    doc 0
+      freq 1
+      pos 78
+  term articolo
+    doc 0
+      freq 1
+      pos 4
+  term avvicinare
+    doc 0
+      freq 1
+      pos 77
+  term basa
+    doc 0
+      freq 1
+      pos 17
+  term campi
+    doc 0
+      freq 2
+      pos 40
+      pos 65
+  term campo
+    doc 0
+      freq 1
+      pos 98
+  term centigradi
+    doc 0
+      freq 1
+      pos 63
+  term che
+    doc 0
+      freq 2
+      pos 44
+      pos 80
+  term chiamati
+    doc 0
+      freq 1
+      pos 21
+  term come
+    doc 0
+      freq 1
+      pos 0
+  term complessa
+    doc 0
+      freq 1
+      pos 95
+  term condizioni
+    doc 0
+      freq 1
+      pos 120
+  term confinamento
+    doc 0
+      freq 1
+      pos 89
+  term confinato
+    doc 0
+      freq 1
+      pos 37
+  term da
+    doc 0
+      freq 2
+      pos 38
+      pos 101
+  term dal
+    doc 0
+      freq 1
+      pos 47
+  term dei
+    doc 0
+      freq 2
+      pos 29
+      pos 116
+  term del
+    doc 0
+      freq 4
+      pos 73
+      pos 88
+      pos 105
+      pos 121
+  term dell
+    doc 0
+      freq 2
+      pos 51
+      pos 56
+  term della
+    doc 0
+      freq 1
+      pos 9
+  term delle
+    doc 0
+      freq 1
+      pos 119
+  term deve
+    doc 0
+      freq 1
+      pos 107
+  term di
+    doc 0
+      freq 6
+      pos 14
+      pos 24
+      pos 49
+      pos 58
+      pos 61
+      pos 110
+  term e
+    doc 0
+      freq 2
+      pos 7
+      pos 118
+  term elettromagnete
+    doc 0
+      freq 1
+      pos 104
+  term estremamente
+    doc 0
+      freq 1
+      pos 94
+  term farlo
+    doc 0
+      freq 1
+      pos 76
+  term forma
+    doc 0
+      freq 1
+      pos 25
+  term funzione
+    doc 0
+      freq 1
+      pos 115
+  term fusione
+    doc 0
+      freq 2
+      pos 10
+      pos 15
+  term gradi
+    doc 0
+      freq 1
+      pos 62
+  term i
+    doc 0
+      freq 1
+      pos 64
+  term idrogeno
+    doc 0
+      freq 1
+      pos 52
+  term il
+    doc 0
+      freq 2
+      pos 31
+      pos 97
+  term impianti
+    doc 0
+      freq 1
+      pos 23
+  term in
+    doc 0
+      freq 3
+      pos 35
+      pos 69
+      pos 114
+  term interno
+    doc 0
+      freq 2
+      pos 28
+      pos 72
+  term isotopi
+    doc 0
+      freq 1
+      pos 50
+  term istantaneamente
+    doc 0
+      freq 1
+      pos 85
+  term lo
+    doc 0
+      freq 1
+      pos 67
+  term magnetici
+    doc 0
+      freq 2
+      pos 41
+      pos 66
+  term magnetico
+    doc 0
+      freq 1
+      pos 99
+  term materiale
+    doc 0
+      freq 1
+      pos 43
+  term megnetico
+    doc 0
+      freq 1
+      pos 90
+  term migliaia
+    doc 0
+      freq 1
+      pos 109
+  term milioni
+    doc 0
+      freq 1
+      pos 60
+  term moti
+    doc 0
+      freq 1
+      pos 117
+  term nell
+    doc 0
+      freq 1
+      pos 3
+  term nucleare
+    doc 0
+      freq 1
+      pos 11
+  term ogni
+    doc 0
+      freq 1
+      pos 102
+  term operazione
+    doc 0
+      freq 1
+      pos 93
+  term ordine
+    doc 0
+      freq 1
+      pos 57
+  term ottenuto
+    doc 0
+      freq 1
+      pos 46
+  term pareti
+    doc 0
+      freq 1
+      pos 79
+  term plasma
+    doc 0
+      freq 2
+      pos 32
+      pos 122
+  term poiché
+    doc 0
+      freq 1
+      pos 96
+  term potenti
+    doc 0
+      freq 1
+      pos 39
+  term prodotto
+    doc 0
+      freq 1
+      pos 100
+  term protagonisti
+    doc 0
+      freq 1
+      pos 8
+  term può
+    doc 0
+      freq 1
+      pos 53
+  term quali
+    doc 0
+      freq 1
+      pos 30
+  term quelle
+    doc 0
+      freq 1
+      pos 82
+  term questa
+    doc 0
+      freq 1
+      pos 87
+  term questo
+    doc 0
+      freq 1
+      pos 42
+  term raggiungere
+    doc 0
+      freq 1
+      pos 54
+  term reattore
+    doc 0
+      freq 1
+      pos 106
+  term reattori
+    doc 0
+      freq 1
+      pos 20
+  term record
+    doc 0
+      freq 1
+      pos 6
+  term secondo
+    doc 0
+      freq 1
+      pos 113
+  term senza
+    doc 0
+      freq 1
+      pos 75
+  term si
+    doc 0
+      freq 1
+      pos 16
+  term singolo
+    doc 0
+      freq 1
+      pos 103
+  term sospensione
+    doc 0
+      freq 2
+      pos 36
+      pos 70
+  term speciali
+    doc 0
+      freq 1
+      pos 19
+  term spiegato
+    doc 0
+      freq 1
+      pos 2
+  term su
+    doc 0
+      freq 2
+      pos 5
+      pos 18
+  term surriscaldamento
+    doc 0
+      freq 1
+      pos 48
+  term tecnologia
+    doc 0
+      freq 1
+      pos 13
+  term temperature
+    doc 0
+      freq 2
+      pos 55
+      pos 83
+  term tengono
+    doc 0
+      freq 1
+      pos 68
+  term tenuto
+    doc 0
+      freq 1
+      pos 34
+  term tokamak
+    doc 0
+      freq 2
+      pos 22
+      pos 74
+  term toroidale
+    doc 0
+      freq 1
+      pos 26
+  term un
+    doc 0
+      freq 1
+      pos 92
+  term una
+    doc 0
+      freq 1
+      pos 12
+  term vaporizzate
+    doc 0
+      freq 1
+      pos 86
+  term variare
+    doc 0
+      freq 1
+      pos 108
+  term verrebbero
+    doc 0
+      freq 1
+      pos 84
+  term viene
+    doc 0
+      freq 2
+      pos 33
+      pos 45
+  term volte
+    doc 0
+      freq 1
+      pos 111
+  term è
+    doc 0
+      freq 1
+      pos 91
+field titolo
+  term equilibri
+    doc 0
+      freq 1
+      pos 0
+  term magnetici
+    doc 0
+      freq 1
+      pos 1
+END
+checksum 00000000004255682329
+table of contents, size: 4
+  filename: _1k.fld
+    start: 23
+    end: 1064
+  filename: _1k.inf
+    start: 1087
+    end: 1867
+  filename: _1k.len
+    start: 1890
+    end: 2042
+  filename: _1k.pst
+    start: 2065
+    end: 7439
+table of contents begins at offset: 0000000000000007439
